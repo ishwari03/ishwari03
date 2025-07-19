@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Ishwari
 
 💻 **Frontend Developer | Aspiring Full Stack Engineer**  
-🎨 Passionate Developer & Creative Designer  
-🎓 Currently in my third year, pursuing a B.E. in Computer Engineering
+🎨 Creative Developer & Design Enthusiast  
+🎓 Final-year B.E. Computer Engineering Student
 
-I love building responsive websites that look great and function smoothly. I'm always exploring new tools and frameworks to improve my development and design skills.
+I enjoy crafting responsive, user-focused websites that look modern and work seamlessly on any device. I'm always exploring new tools and frameworks to improve my development and design skills. Turning ideas into smooth, interactive projects excites me — and I’m eager to grow every day as a developer and problem solver.
 
 ---
 
@@ -28,8 +28,8 @@ I love building responsive websites that look great and function smoothly. I'm a
 ### 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React ,ELectronJS
-- **Backend & Database**: Node.js (learning), MongoDB  
-- **Languages**: Python, C++, Java  
+- **Backend & Database**: Express.js, Node.js, MongoDB  
+- **Languages**: Python, C++, Java , SQL
 - **Tools**: Git, GitHub, VS Code, Chrome DevTools
 
 ---
